@@ -26,7 +26,7 @@
 8. [Using Wireshark for Nmap Traffic Analysis](#using-wireshark-for-nmap-traffic-analysis)
 9. [Ethical and Legal Considerations](#ethical-and-legal-considerations)
 10. [Conclusion](#conclusion)
-11. [References](#references)
+11. [Resources](#resources)
 
 ---
 
@@ -222,7 +222,7 @@ This guide provides a comprehensive overview of Nmap’s capabilities, from basi
 
 ---
 
-## **References**
+## **Resources**
 1. [Nmap Official Documentation](https://nmap.org)
 2. [Wireshark User Guide](https://www.wireshark.org/docs/)
 3. [Vulners Nmap Script](https://github.com/vulnersCom/nmap-vulners)
